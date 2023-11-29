@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ksilen
-- 👀 I’m interested in C++ and Qt
+- 👀 I like programming
 
 <!---
 Ksilen/Ksilen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
